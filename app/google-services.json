@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270744399332",
+    "project_id": "lokiapp-009",
+    "storage_bucket": "lokiapp-009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270744399332:android:400c1390dc186a7e5a6bf1",
+        "android_client_info": {
+          "package_name": "com.example.lokiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270744399332-098ameobqr8b5p75qij0icrsb4kotaum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-WvcSnxyAPfNVPYQsLpvweXoGP_ABz08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270744399332-098ameobqr8b5p75qij0icrsb4kotaum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
